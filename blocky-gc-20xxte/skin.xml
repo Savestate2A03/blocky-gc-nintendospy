@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="Blocky (20XXTE Inspired)" author="Savestate (based off Dan Salvato)" type="gamecube">
+
+    <background name="default" image="base.png" />
+
+    <button name="a" image="a.png" x="147" y="70" width="56" height="56" />
+    <button name="b" image="b.png" x="105" y="91" width="35" height="35" />
+    <button name="x" image="x.png" x="210" y="70" width="21" height="56" />
+    <button name="y" image="y.png" x="147" y="42" width="56" height="21" />
+    <button name="z" image="z.png" x="210" y="42" width="21" height="21" />
+    <button name="start" image="start.png" x="112" y="56" width="21" height="14" />
+
+    <button name="r" image="shoulder_full.png" x="161" y="14" width="7" height="21" />
+    <analog name="trig_r" image="shoulder.png" x="159" y="14" width="71" height="21"
+            direction="left" reverse="false" />
+
+    <button name="l" image="shoulder_full.png" x="77" y="14" width="7" height="21" />
+    <analog name="trig_l" image="shoulder.png" x="14" y="14" width="70" height="21"
+            direction="right" reverse="false" />
+
+    <stick xname="lstick_x" yname="lstick_y" image="control_stick.png"
+           x="45" y="73" width="22" height="22" xrange="35" yrange="35"/>
+
+    <stick xname="cstick_x" yname="cstick_y" image="c_stick.png"
+           x="269" y="73" width="22" height="22" xrange="35" yrange="35"/>
+
+</skin>
