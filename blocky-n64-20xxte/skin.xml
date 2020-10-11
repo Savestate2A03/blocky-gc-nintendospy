@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="Blocky N64" author="Savestate" type="n64">
+
+    <background name="default" image="base.png" />
+
+    <button name="a" image="n64_a.png" x="245" y="91" width="35" height="35" />
+    <button name="b" image="n64_b.png" x="224" y="49" width="35" height="35" />
+    <button name="start" image="n64_start.png" x="196" y="28" width="21" height="21" />
+    <button name="z" image="n64_z.png" x="154" y="133" width="77" height="21" />
+
+    <button name="l" image="n64_shoulder.png" x="14" y="14" width="84" height="21" />
+    <button name="r" image="n64_shoulder.png" x="287" y="14" width="84" height="21" />
+
+    <stick xname="stick_x" yname="stick_y" image="control_stick.png" x="136" y="73" width="22" height="22" xrange="40" yrange="40"/>
+
+    <button name="cup" image="n64_c.png" x="315" y="42" width="28" height="28" />
+    <button name="cdown" image="n64_c.png" x="315" y="98" width="28" height="28" />
+    <button name="cleft" image="n64_c.png" x="287" y="70" width="28" height="28" />
+    <button name="cright" image="n64_c.png" x="343" y="70" width="28" height="28" />
+
+    <button name="up" image="n64_dpad.png" x="42" y="42" width="28" height="28" />
+    <button name="down" image="n64_dpad.png" x="42" y="98" width="28" height="28" />
+    <button name="left" image="n64_dpad.png" x="14" y="70" width="28" height="28" />
+    <button name="right" image="n64_dpad.png" x="70" y="70" width="28" height="28" />
+
+</skin>
