@@ -12,11 +12,11 @@
 
     <button name="l" image="shoulder_full.png" x="14" y="14" width="56" height="21" />
     <analog name="trig_l" image="shoulder.png" x="14" y="14" width="56" height="21"
-            direction="left" reverse="false" />
+            direction="right" reverse="false" />
 
     <button name="r" image="shoulder_full.png" x="175" y="14" width="56" height="21" />
     <analog name="trig_r" image="shoulder.png" x="175" y="14" width="56" height="21"
-            direction="right" reverse="false" />
+            direction="left" reverse="false" />
 
     <stick xname="lstick_x" yname="lstick_y" image="control_stick.png"
            x="45" y="73" width="22" height="22" xrange="35" yrange="35"/>
